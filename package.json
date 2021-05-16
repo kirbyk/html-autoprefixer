@@ -29,6 +29,6 @@
   },
   "dependencies": {
     "autoprefixer": "^4.0.0",
-    "cheerio": "^0.18.0"
+    "cheerio": "^0.22.0"
   }
 }
